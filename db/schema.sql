@@ -10,6 +10,6 @@ CREATE TABLE Burgers (
     burger_name VARCHAR(25) NOT NULL,
     devoured BOOLEAN,
 
-    PRIMARY KEY (Id) 
+    PRIMARY KEY (id) 
 );
 
